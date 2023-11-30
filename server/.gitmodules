@@ -1,0 +1,3 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/kyungmin0729/port2023-mainsite-client.git
